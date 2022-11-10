@@ -2,15 +2,7 @@ const { CommandClient } = require('eris')
 
 // Stupid ass bot creation
 async function init(token) {
-    const stupidAssBot = new CommandClient(
-        `Bot ${token}`, 
-        {
-            intents: ['guilds'],
-            maxShards: 'auto',
-            restMode: true,
-        }
-    )
-
+    const stupidAssBot = new CommandClient(`Bot ${token}`, { intents: ['guilds'], maxShards: 'auto',restMode: true })
     // Register the stupid ass command
     stupidAssBot.on('ready', async () => {
         await stupidAssBot.bulkEditCommands([{
@@ -18,6 +10,7 @@ async function init(token) {
             description: 'I hate discord so much you cannot believe it',
             type: 1,
         }])
+        console.log(`Paste the URL below into your browser to invite your bot!\nhttps://discord.com/oauth2/authorize?client_id=${stupidAssBot.user.id}&scope=bot%20applications.commands`)
     })
     // Stupid ass interaction creation event
     stupidAssBot.on('interactionCreate', async (interaction) => {
@@ -29,8 +22,6 @@ async function init(token) {
             process.exit(0)
         }
     })
-
-    
     stupidAssBot.connect();
 }
 
