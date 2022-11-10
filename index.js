@@ -10,7 +10,7 @@ async function init(token) {
             description: 'I hate discord so much you cannot believe it',
             type: 1,
         }])
-        console.log(`Paste the URL below into your browser to invite your bot!\nhttps://discord.com/oauth2/authorize?client_id=${stupidAssBot.user.id}&scope=applications.commands%2Bbot&permissions=3072`)
+        console.log(`Paste the URL below into your browser to invite your bot!\nhttps://discord.com/oauth2/authorize?client_id=${stupidAssBot.user.id}&scope=applications.commands%20bot&permissions=3072`)
     })
     // Stupid ass interaction creation event
     stupidAssBot.on('interactionCreate', async (interaction) => {
