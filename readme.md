@@ -8,6 +8,7 @@
 - Click on secrets
 - Type `token` into the key field
 - Paste your token into the value field
+- Click on `Add new secret`
 - Then on the left side of the replit window click ok (there should be like a field with `npm run start` text in it, the button is below that)
 - Then click on the big green run button in the top middle of the window
 - Invite the bot using the URL put into console
