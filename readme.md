@@ -1,6 +1,6 @@
 # Please, do not use this to spam requests to either Discord or Replit, for they both are seeming to struggle with this.
 
-# I hate Discord so I made this
+## I hate Discord so I made this
 
 ### How to use
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
