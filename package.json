@@ -7,7 +7,7 @@
   "description": "Discord can eat my ass",
   "main": "index.js",
   "scripts": {
-    "run": "npm i && node ."
+    "start": "npm i && node ."
   },
   "repository": {
     "type": "git",
