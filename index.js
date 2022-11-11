@@ -25,5 +25,5 @@ async function init(token) {
     stupidAssBot.connect();
 }
 
-const tokenFromStupidCommand = process.argv[2]
-init(tokenFromStupidCommand);
+const tokenFromStupidEnv = process.env.token
+init(tokenFromStupidEnv);
