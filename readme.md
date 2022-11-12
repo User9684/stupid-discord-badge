@@ -12,7 +12,7 @@
 - If your bot is brand new, you will need to wait up to 24h for your bot to be fully registered as "active"
 - Once you are eligible, get the badge at the [Application site](https://discord.com/developers/active-developer)
 
-##How to use on your very own computer wow wow
+## How to use on your very own computer wow wow
 - Install [Node.js](https://nodejs.org/en/)
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
 - Make it into a bot if it isn't already one
