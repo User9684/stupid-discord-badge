@@ -2,6 +2,8 @@
 
 ## I hate Discord so I made this
 
+[![Run on Repl.it](https://replit.com/badge/github/User9684/stupid-discord-badge)](https://replit.com/new/github/User9684/stupid-discord-badge)
+
 ### How to use
 - Create an application at the [Developer panel](https://discord.com/developers/applications/) (or you can use a previously existing one)
 - Make it into a bot if it isn't already one
