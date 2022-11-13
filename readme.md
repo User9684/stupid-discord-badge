@@ -1,7 +1,7 @@
 # Please, do not use this to spam requests to either Discord or Replit, for they both are seeming to struggle with this.
 
 ## I hate Discord so I made this
-<b> **Please consider reading the [FAQ](./faq) before opening issues.**
+<b> **Please consider reading the [FAQ](./faq.md) before opening issues.**
 
 ### How to use
 #### Getting your token
