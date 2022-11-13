@@ -11,7 +11,7 @@
 
 #### Repl.It
 - To host on Repl.it, create an application via this [template](https://replit.com/new/github/User9684/stupid-discord-badge)
-- Run the command `npm run run BOT_TOKEN_HERE` (replace (BOT_TOKEN_HERE with your [token](./#getting-your-token)) inside the "Shell" tab
+- Run the command `npm run run BOT_TOKEN_HERE` (replace (BOT_TOKEN_HERE with your [token](#getting-your-token)) inside the "Shell" tab
 - Invite the bot using the URL put into console
 
 #### Glitch
